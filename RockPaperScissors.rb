@@ -39,5 +39,4 @@ player_throw = params[:type].to_sym
 	else
 		"Sorry: #{computer_throw} beats #{player_throw}. Throw again!"
 	end
-
 end

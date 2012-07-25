@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"computer",
+				"computer_throw"
+			],
+			[
 				"sensor",
 				"sensorValue"
 			],
@@ -40,6 +44,20 @@
 	},
 	"file_history":
 	[
+		"/Users/mbreneman/Dropbox/Sinatra/ERBs-External.rb",
+		"/Users/mbreneman/Dropbox/Sinatra/views/index.erb",
+		"/Users/mbreneman/Dropbox/Sinatra/ERBs.rb",
+		"/Users/mbreneman/Dropbox/Sinatra/ERBs-inline.rb",
+		"/Users/mbreneman/Dropbox/Sinatra/RockPaperScissors.rb",
+		"/Users/mbreneman/Dropbox/Sinatra/Redirects.rb",
+		"/Users/mbreneman/Dropbox/Sinatra/Static.rb",
+		"/Users/mbreneman/Dropbox/Sinatra/public/Static.html",
+		"/Users/mbreneman/Dropbox/Sinatra/Static.html",
+		"/Users/mbreneman/Dropbox/Sinatra/QueryStrings.rb",
+		"/Users/mbreneman/Dropbox/Sinatra/ParametersNotinURL",
+		"/Users/mbreneman/Dropbox/Sinatra/ParametersNotinURL.rb",
+		"/Users/mbreneman/Dropbox/Sinatra/Parameters.rb",
+		"/Users/mbreneman/Dropbox/Sinatra/ArrayofRoutes.rb",
 		"/Users/mbreneman/Dropbox/Sinatra/HelloWorld.rb",
 		"/Users/mbreneman/Dropbox/Smart/Denmark/MotionBuilding/070312 Isotopewithfiltering/DenmarkFilters.html",
 		"/Users/mbreneman/Dropbox/Smart/Denmark/MotionBuilding/070312 Isotopewithfiltering/js/jquery.quicksearch.js",
@@ -110,7 +128,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -160,6 +178,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 294.0,
+	"side_bar_width": 207.0,
 	"status_bar_visible": true
 }
